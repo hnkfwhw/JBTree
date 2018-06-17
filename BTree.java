@@ -1,4 +1,4 @@
-package com.kedacom.mina;
+package com.demo.mina;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
